@@ -1,0 +1,13 @@
+
+name            alignment   pub
+
+Magneto         bad         marvel
+Captain Marvel  good        marvel
+Batman          good        dc
+Joker           bad         dc
+hellboy         good        dark horse
+
+pub     founded
+Marvel  1939
+dc      1934
+image   1992
