@@ -1,4 +1,6 @@
 
+Heroes
+======
 name            alignment   pub
 
 Magneto         bad         marvel
@@ -7,7 +9,10 @@ Batman          good        dc
 Joker           bad         dc
 hellboy         good        dark horse
 
+Pubs
+====
 pub     founded
+
 Marvel  1939
 dc      1934
 image   1992
